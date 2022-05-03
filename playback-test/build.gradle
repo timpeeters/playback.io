@@ -4,7 +4,7 @@ dependencies {
     testImplementation 'io.cucumber:cucumber-expressions:10.1.0'
     testImplementation 'io.cucumber:cucumber-java8:4.8.1'
     testImplementation 'io.cucumber:cucumber-junit:4.8.0'
-    testImplementation 'io.cucumber:cucumber-picocontainer:4.8.1'
+    testImplementation 'io.cucumber:cucumber-picocontainer:7.3.4'
     testImplementation 'org.assertj:assertj-core'
     testImplementation 'org.mockito:mockito-core'
 }
